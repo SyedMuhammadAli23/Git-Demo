@@ -9,3 +9,13 @@ padding: 10px 20px;
 border: none;
 cursor: pointer;
 }
+.button:hover {
+  background: #ff4757;
+  transform: scale(1.1);
+}
+
+p {
+  color: #2c3e50;
+  font-size: 24px;
+  margin-top: 20px;
+}
